@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kdeepchand
+- 👋 Hi, I’m Deepchand b
 - 👀 I’m interested in ... Linux 
 
 - 🌱 I’m currently learning ...kali Linux
